@@ -1,18 +1,21 @@
-# Projeto de Reservas de Laboratórios
+# Projeto de Reservas de Laboratórios 🌐 Web Dev
 
 <img align="center" alt="Wemerson-Nino-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Wemerson-Nino-React" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png">
+<img align="center" alt="Wemerson-Nino-React" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png">
+<img align="center" alt="Wemerson-Nino-React" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png">
 
 Este projeto é uma aplicação web desenvolvida em React para gerenciar reservas de laboratórios. Ele permite a reserva de laboratórios por usuários, exibição da lista de laboratórios disponíveis, visualização e gerenciamento de agendamentos.
 
 Currently, two official plugins are available:
 
-## Funcionalidades
+## Funcionalidades 🔨 
 > Cadastro de Laboratórios: Permite o cadastro de novos laboratórios com nome e quantidade de computadores.
 > Lista de Laboratórios: Exibe a lista de laboratórios cadastrados, com opções para edição e exclusão.
 > Reserva de Laboratórios: Usuários podem fazer reservas de laboratórios, informando nome, e-mail, data e laboratório desejado.
 > Agendamentos: Exibe a lista de agendamentos, com opções para edição e exclusão.
 
-## Instalação e Execução
+## Instalação e Execução 📜
 
 1. Clone o repositório:
 ``` bash
@@ -44,14 +47,15 @@ yarn dev
 ```
 Acesse a aplicação em http://localhost:3000 no navegador.
 
-## Estrutura do Projeto
+## Estrutura do Projeto :atm:
 - src/components: Contém os componentes reutilizáveis da aplicação.
 - src/pages: Páginas da aplicação.
 - src/services: Funções e configurações relacionadas a serviços externos (ex: API).
 
-## API Backend
+## API Backend :capital_abcd:
 
 O projeto assume a existência de uma API backend para a comunicação com o servidor. Certifique-se de ter a API backend configurada corretamente para o pleno funcionamento da aplicação.
+Para rodar o servidor backend se faz necessário abri um outro terminal e rodar o comando abaixo.
 
 - Configure o servidor backend `json-server` para que o `CRUD` funcione:
 
@@ -67,12 +71,12 @@ yarn run json-server
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
-## Contribuições
+## Contribuições :chocolate_bar:
 Contribuições da Yasmin 
 
 Outras contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar pull requests com melhorias.
 
-## Contact
+## Contact :mailbox_with_no_mail:
 Wemerson Nino - @wemersonnino - wemersonnino@yahoo.com.br
 
 Yasmin - @yasmin - 
