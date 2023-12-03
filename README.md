@@ -9,7 +9,6 @@
 
 Este projeto é uma aplicação web desenvolvida em React para gerenciar reservas de laboratórios. Ele permite a reserva de laboratórios por usuários, exibição da lista de laboratórios disponíveis, visualização e gerenciamento de agendamentos.
 
-Currently, two official plugins are available:
 
 ## Funcionalidades 🔨 
 > Cadastro de Laboratórios: Permite o cadastro de novos laboratórios com nome e quantidade de computadores.
@@ -34,8 +33,9 @@ cd Atividade-com-Requisições-HTTP(interdiciplinar-atividade)
 
 ```bash
 npm install
-
-or 
+```
+or
+```bash
 yarn install
 ```
 
@@ -43,8 +43,9 @@ yarn install
 
 ```bash
 npm start
-
-or 
+```
+or
+```bash
 yarn dev
 ```
 Acesse a aplicação em http://localhost:3000 no navegador.
@@ -63,8 +64,9 @@ Para rodar o servidor backend se faz necessário abri um outro terminal e rodar 
 
 ``` shel
 npm run json-server
-
+```
 or
+``` shel
 yarn run json-server
 
 ```
@@ -83,7 +85,7 @@ Wemerson Nino - @wemersonnino - wemersonnino@yahoo.com.br
 
 Yasmin - @YaYaMonico - yasmiinmonico@gmail.com
 
-Project Link: https://github.com/your_username/repo_name
+Project Link: https://github.com/wemersonnino/Atividade-com-Requisi-es-HTTP-interdiciplinar-atividade-
 
 
 
