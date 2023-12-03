@@ -1,9 +1,11 @@
 # Projeto de Reservas de Laboratórios 🌐 Web Dev
 
-<img align="center" alt="Wemerson-Nino-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Wemerson-Nino-React" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png">
-<img align="center" alt="Wemerson-Nino-React" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png">
-<img align="center" alt="Wemerson-Nino-React" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png">
+<div style="display: inline_block">
+<img align="center" alt="Wemerson-Nino-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Wemerson-Nino-httpp" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png">
+<img align="center" alt="Wemerson-Nino-Rest" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png">
+<img align="center" alt="Wemerson-Nino-Bootstrap" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png">
+</div><br>
 
 Este projeto é uma aplicação web desenvolvida em React para gerenciar reservas de laboratórios. Ele permite a reserva de laboratórios por usuários, exibição da lista de laboratórios disponíveis, visualização e gerenciamento de agendamentos.
 
@@ -19,7 +21,7 @@ Currently, two official plugins are available:
 
 1. Clone o repositório:
 ``` bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/wemersonnino/Atividade-com-Requisi-es-HTTP-interdiciplinar-atividade-.git
 ```
 
 2. Acesse o diretório do projeto:
