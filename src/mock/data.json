@@ -1,0 +1,143 @@
+{
+  "laboratorios": [
+    {
+      "nome": "LabTeste",
+      "qtdComputadores": 22,
+      "id": 1
+    },
+    {
+      "nome": "LabTest1",
+      "qtdComputadores": "24",
+      "id": 2
+    },
+    {
+      "nome": "LabAndroid",
+      "qtdComputadores": "25",
+      "id": 3
+    },
+    {
+      "nome": "Lab Programação",
+      "qtdComputadores": "32",
+      "id": 4
+    },
+    {
+      "nome": "Novo Labor[atorio",
+      "qtdComputadores": "9",
+      "id": 5
+    },
+    {
+      "nome": "Second Lab",
+      "qtdComputadores": "5",
+      "id": 6
+    },
+    {
+      "nome": "Lab Galo Doido",
+      "qtdComputadores": "45",
+      "id": 7
+    }
+  ],
+  "reservas": [
+    {
+      "email": "maria@teste.com.br",
+      "data": "2023-12-01",
+      "laboratorio": 2,
+      "id": 1
+    },
+    {
+      "email": "Jose",
+      "data": "2023-11-30",
+      "laboratorio": 1,
+      "id": 2
+    },
+    {
+      "email": "yasmin@test.com.br",
+      "data": "2023-12-04",
+      "laboratorio": 3,
+      "id": 3
+    },
+    {
+      "email": "wemerson",
+      "data": "2023-11-30",
+      "laboratorio": 4,
+      "id": 4
+    },
+    {
+      "email": "wemersonnino@testcom.br",
+      "data": "2023-12-05",
+      "laboratorio": 3,
+      "id": 5
+    },
+    {
+      "email": "gerovana@test.com",
+      "data": "2023-12-08",
+      "laboratorio": 1,
+      "id": 6
+    },
+    {
+      "email": "ana@test.com.br",
+      "data": "2023-12-01",
+      "laboratorio": 3,
+      "id": 7
+    },
+    {
+      "email": "",
+      "data": "",
+      "laboratorio": 0,
+      "id": 8
+    },
+    {
+      "email": "aurora@chuva.com.br",
+      "data": "2023-12-01",
+      "laboratorio": 5,
+      "id": 9
+    },
+    {
+      "email": "tereza@test.com.br",
+      "data": "2024-02-21",
+      "laboratorio": 3,
+      "id": 10
+    },
+    {
+      "email": "wemersonnino@gmail.com",
+      "data": "2024-02-12",
+      "laboratorio": 4,
+      "id": 11
+    },
+    {
+      "email": "teste@teste.com.br",
+      "data": "2024-05-13",
+      "laboratorio": 7,
+      "id": 12
+    }
+  ],
+  "agendamentos": [
+    {
+      "id": 1,
+      "nome": "",
+      "email": "yasmin@test.com.b",
+      "nomelaboratorio": "Lab Programação",
+      "data": "2023-12-05"
+    },
+    {
+      "id": 2,
+      "nome": "Wemerson",
+      "email": "wemerson@test.com.br",
+      "nomelaboratorio": "LabAndroid",
+      "data": "2023-12-03"
+    },
+    {
+      "nome": "Montanha",
+      "email": "wemersonnino@gmail.com",
+      "nomelaboratorio": "4",
+      "data": "2024-02-12",
+      "id": 3
+    },
+    {
+      "nome": "Suzana",
+      "email": "teste@teste.com.br",
+      "nomelaboratorio": "7",
+      "data": "2024-05-13",
+      "id": 4
+    }
+  ]
+}
