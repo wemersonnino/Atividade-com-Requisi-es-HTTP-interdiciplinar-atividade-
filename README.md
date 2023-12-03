@@ -81,7 +81,7 @@ Outras contribuições são bem-vindas! Sinta-se à vontade para abrir problemas
 ## Contact :mailbox_with_no_mail:
 Wemerson Nino - @wemersonnino - wemersonnino@yahoo.com.br
 
-Yasmin - @yasmin - 
+Yasmin - @YaYaMonico - yasmiinmonico@gmail.com
 
 Project Link: https://github.com/your_username/repo_name
 
