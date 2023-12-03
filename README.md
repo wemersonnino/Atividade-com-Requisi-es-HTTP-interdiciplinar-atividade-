@@ -1,5 +1,7 @@
 # Projeto de Reservas de Laboratórios
 
+<img align="center" alt="Wemerson-Nino-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
 Este projeto é uma aplicação web desenvolvida em React para gerenciar reservas de laboratórios. Ele permite a reserva de laboratórios por usuários, exibição da lista de laboratórios disponíveis, visualização e gerenciamento de agendamentos.
 
 Currently, two official plugins are available:
